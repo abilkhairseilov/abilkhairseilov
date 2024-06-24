@@ -7,4 +7,5 @@ I use:
 - Vim/Neovim (text editor)
 - Windows 10/GNU Linux (Arch Linux) (OS)
 ## Metrics
-<img src="/github-metrics.svg" alt="Metrics" width="400">
+<img src="/metrics.classic.svg" alt="Metrics" width="400">
+<img src="/metrics.plugin.languages.details.svg" alt="Metrics" width="400">
